@@ -75,5 +75,5 @@ This is console application this layer. This Library uses in Abstraction Layer, 
 
 # Response Examples
 
-![](../MarsRoverApplication/MarsRoverApplication/assets/test1-result.png)
+![](/MarsRoverApplication/MarsRoverApplication/assets/test1-result.png)
 ![](/MarsRoverApplication/MarsRoverApplication/assets/test2-result.png)
