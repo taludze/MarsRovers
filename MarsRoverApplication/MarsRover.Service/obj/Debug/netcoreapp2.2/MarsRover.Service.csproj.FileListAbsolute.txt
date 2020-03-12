@@ -1,0 +1,16 @@
+C:\Users\02482930\source\repos\MarsRoverApplication\MarsRover.Service\bin\Debug\netcoreapp2.2\MarsRover.Service.deps.json
+C:\Users\02482930\source\repos\MarsRoverApplication\MarsRover.Service\bin\Debug\netcoreapp2.2\MarsRover.Service.dll
+C:\Users\02482930\source\repos\MarsRoverApplication\MarsRover.Service\bin\Debug\netcoreapp2.2\MarsRover.Service.pdb
+C:\Users\02482930\source\repos\MarsRoverApplication\MarsRover.Service\bin\Debug\netcoreapp2.2\MarsRover.Abstraction.dll
+C:\Users\02482930\source\repos\MarsRoverApplication\MarsRover.Service\bin\Debug\netcoreapp2.2\MarsRover.Common.dll
+C:\Users\02482930\source\repos\MarsRoverApplication\MarsRover.Service\bin\Debug\netcoreapp2.2\MarsRover.Abstraction.pdb
+C:\Users\02482930\source\repos\MarsRoverApplication\MarsRover.Service\bin\Debug\netcoreapp2.2\MarsRover.Common.pdb
+C:\Users\02482930\source\repos\MarsRoverApplication\MarsRover.Service\obj\Debug\netcoreapp2.2\MarsRover.Service.csprojAssemblyReference.cache
+C:\Users\02482930\source\repos\MarsRoverApplication\MarsRover.Service\obj\Debug\netcoreapp2.2\MarsRover.Service.csproj.CoreCompileInputs.cache
+C:\Users\02482930\source\repos\MarsRoverApplication\MarsRover.Service\obj\Debug\netcoreapp2.2\MarsRover.Service.AssemblyInfoInputs.cache
+C:\Users\02482930\source\repos\MarsRoverApplication\MarsRover.Service\obj\Debug\netcoreapp2.2\MarsRover.Service.AssemblyInfo.cs
+C:\Users\02482930\source\repos\MarsRoverApplication\MarsRover.Service\obj\Debug\netcoreapp2.2\MarsRover.Service.csproj.CopyComplete
+C:\Users\02482930\source\repos\MarsRoverApplication\MarsRover.Service\obj\Debug\netcoreapp2.2\MarsRover.Service.dll
+C:\Users\02482930\source\repos\MarsRoverApplication\MarsRover.Service\obj\Debug\netcoreapp2.2\MarsRover.Service.pdb
+C:\Users\02482930\source\repos\MarsRoverApplication\MarsRover.Service\bin\Debug\netcoreapp2.2\MarsRover.Domain.dll
+C:\Users\02482930\source\repos\MarsRoverApplication\MarsRover.Service\bin\Debug\netcoreapp2.2\MarsRover.Domain.pdb

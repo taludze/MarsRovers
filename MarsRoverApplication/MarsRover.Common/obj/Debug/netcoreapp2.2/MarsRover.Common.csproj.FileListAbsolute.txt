@@ -1,0 +1,9 @@
+C:\Users\02482930\source\repos\MarsRoverApplication\MarsRover.Common\bin\Debug\netcoreapp2.2\MarsRover.Common.deps.json
+C:\Users\02482930\source\repos\MarsRoverApplication\MarsRover.Common\bin\Debug\netcoreapp2.2\MarsRover.Common.dll
+C:\Users\02482930\source\repos\MarsRoverApplication\MarsRover.Common\bin\Debug\netcoreapp2.2\MarsRover.Common.pdb
+C:\Users\02482930\source\repos\MarsRoverApplication\MarsRover.Common\obj\Debug\netcoreapp2.2\MarsRover.Common.csprojAssemblyReference.cache
+C:\Users\02482930\source\repos\MarsRoverApplication\MarsRover.Common\obj\Debug\netcoreapp2.2\MarsRover.Common.csproj.CoreCompileInputs.cache
+C:\Users\02482930\source\repos\MarsRoverApplication\MarsRover.Common\obj\Debug\netcoreapp2.2\MarsRover.Common.AssemblyInfoInputs.cache
+C:\Users\02482930\source\repos\MarsRoverApplication\MarsRover.Common\obj\Debug\netcoreapp2.2\MarsRover.Common.AssemblyInfo.cs
+C:\Users\02482930\source\repos\MarsRoverApplication\MarsRover.Common\obj\Debug\netcoreapp2.2\MarsRover.Common.dll
+C:\Users\02482930\source\repos\MarsRoverApplication\MarsRover.Common\obj\Debug\netcoreapp2.2\MarsRover.Common.pdb

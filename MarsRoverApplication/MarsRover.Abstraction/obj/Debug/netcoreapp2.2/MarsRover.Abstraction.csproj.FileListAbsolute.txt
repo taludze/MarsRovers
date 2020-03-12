@@ -1,0 +1,12 @@
+C:\Users\02482930\source\repos\MarsRoverApplication\MarsRover.Abstraction\bin\Debug\netcoreapp2.2\MarsRover.Abstraction.deps.json
+C:\Users\02482930\source\repos\MarsRoverApplication\MarsRover.Abstraction\bin\Debug\netcoreapp2.2\MarsRover.Abstraction.dll
+C:\Users\02482930\source\repos\MarsRoverApplication\MarsRover.Abstraction\bin\Debug\netcoreapp2.2\MarsRover.Abstraction.pdb
+C:\Users\02482930\source\repos\MarsRoverApplication\MarsRover.Abstraction\bin\Debug\netcoreapp2.2\MarsRover.Common.dll
+C:\Users\02482930\source\repos\MarsRoverApplication\MarsRover.Abstraction\bin\Debug\netcoreapp2.2\MarsRover.Common.pdb
+C:\Users\02482930\source\repos\MarsRoverApplication\MarsRover.Abstraction\obj\Debug\netcoreapp2.2\MarsRover.Abstraction.csprojAssemblyReference.cache
+C:\Users\02482930\source\repos\MarsRoverApplication\MarsRover.Abstraction\obj\Debug\netcoreapp2.2\MarsRover.Abstraction.csproj.CoreCompileInputs.cache
+C:\Users\02482930\source\repos\MarsRoverApplication\MarsRover.Abstraction\obj\Debug\netcoreapp2.2\MarsRover.Abstraction.AssemblyInfoInputs.cache
+C:\Users\02482930\source\repos\MarsRoverApplication\MarsRover.Abstraction\obj\Debug\netcoreapp2.2\MarsRover.Abstraction.AssemblyInfo.cs
+C:\Users\02482930\source\repos\MarsRoverApplication\MarsRover.Abstraction\obj\Debug\netcoreapp2.2\MarsRover.Abstraction.csproj.CopyComplete
+C:\Users\02482930\source\repos\MarsRoverApplication\MarsRover.Abstraction\obj\Debug\netcoreapp2.2\MarsRover.Abstraction.dll
+C:\Users\02482930\source\repos\MarsRoverApplication\MarsRover.Abstraction\obj\Debug\netcoreapp2.2\MarsRover.Abstraction.pdb

@@ -1,0 +1,64 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.2",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.2": {
+      "MarsRover.Service/1.0.0": {
+        "dependencies": {
+          "MarsRover.Abstraction": "1.0.0",
+          "MarsRover.Common": "1.0.0",
+          "MarsRover.Domain": "1.0.0"
+        },
+        "runtime": {
+          "MarsRover.Service.dll": {}
+        }
+      },
+      "MarsRover.Abstraction/1.0.0": {
+        "dependencies": {
+          "MarsRover.Common": "1.0.0"
+        },
+        "runtime": {
+          "MarsRover.Abstraction.dll": {}
+        }
+      },
+      "MarsRover.Common/1.0.0": {
+        "runtime": {
+          "MarsRover.Common.dll": {}
+        }
+      },
+      "MarsRover.Domain/1.0.0": {
+        "dependencies": {
+          "MarsRover.Abstraction": "1.0.0"
+        },
+        "runtime": {
+          "MarsRover.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MarsRover.Service/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MarsRover.Abstraction/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MarsRover.Common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MarsRover.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
