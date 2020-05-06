@@ -85,3 +85,13 @@ This is console application this layer. This Library uses in Abstraction Layer, 
 
 ![](/MarsRoverApplication/MarsRoverApplication/assets/test1-result.png)
 ![](/MarsRoverApplication/MarsRoverApplication/assets/test2-result.png)
+
+
+```JSON
+{
+  "success": true,
+  "statusCode": 200,
+  "message": "İstek başarılı.",
+  "result": "BOS Project is serving now."
+}
+```
